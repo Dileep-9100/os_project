@@ -8,3 +8,6 @@ int main()
   cout<<x;
   cin>>y;
   
+ return 0;
+}
+  
