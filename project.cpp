@@ -8,6 +8,8 @@ int main()
   cout<<x;
   cin>>y;
   cout<<y;
+  cin>>z;
+  cout<<z;
  return 0;
 }
   
