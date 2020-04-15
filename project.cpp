@@ -7,7 +7,7 @@ int main()
   cin>>x;
   cout<<x;
   cin>>y;
-  
+  cout<<y;
  return 0;
 }
   
