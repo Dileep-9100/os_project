@@ -8,6 +8,7 @@ int main()
   cout<<x;
   cin>>y;
   cout<<y;
+  cout<<"printing the value of z";
   cin>>z;
   cout<<z;
  return 0;
